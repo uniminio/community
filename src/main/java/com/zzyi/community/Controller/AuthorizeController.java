@@ -1,7 +1,7 @@
 package com.zzyi.community.Controller;
 import com.zzyi.community.dto.AccessTokenDTO;
 import com.zzyi.community.dto.GithubUser;
-import com.zzyi.community.mapper.UserMapper;
+import com.zzyi.community.mappers.UserMapper;
 import com.zzyi.community.model.User;
 import com.zzyi.community.provider.GithubProvider;
 import org.springframework.beans.factory.annotation.Autowired;

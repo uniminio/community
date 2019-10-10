@@ -1,4 +1,4 @@
-package com.zzyi.community.mapper;
+package com.zzyi.community.mappers;
 
 import com.zzyi.community.model.User;
 import org.apache.ibatis.annotations.Insert;
